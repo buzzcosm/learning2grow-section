@@ -1,4 +1,4 @@
-# <h1 style="text-transform: uppercase;">my learning</h1>
+# MY LEARNING
 
 <sub><a href="https://github.com/anuraghazra/github-readme-stats">GitHub Readme Stats</a></sub>
 
