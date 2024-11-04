@@ -14,4 +14,4 @@
 
 ### `ZTM` Course on Udemy ([Complete NodeJS Developer (GraphQL, MongoDB, + more)](https://www.udemy.com/course/complete-nodejs-developer-zero-to-mastery))
 
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=buzzcosm&repo=ztm-course-overview-Complete-NodeJS-Developer&theme=radical)](https://github.com/buzzcosm/ztm-course-overview-Complete-NodeJS-Developer)
