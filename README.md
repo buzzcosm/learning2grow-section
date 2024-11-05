@@ -1,10 +1,14 @@
 # MY LEARNING
 
+<!--
+
 <sub><a href="https://github.com/anuraghazra/github-readme-stats">GitHub Readme Stats</a></sub>
 
 ![bizzcosm's GitHub stats](https://github-readme-stats.vercel.app/api?username=buzzcosm&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=buzzcosm&layout=compact&theme=radical)
+
+-->
 
 ## Udemy Section
 
