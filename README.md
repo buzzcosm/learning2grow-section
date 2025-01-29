@@ -23,3 +23,7 @@
 ### Course on Udemy ([Building Microservices with Spring Boot & Spring Cloud](https://www.udemy.com/course/building-microservices-with-spring-boot-and-spring-cloud))
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=buzzcosm&repo=course-building-microservices-with-spring-boot-and-spring-cloud&theme=radical)](https://github.com/buzzcosm/course-building-microservices-with-spring-boot-and-spring-cloud)
+
+### Course on Udemy ([Building Microservices with Spring Boot & Spring Cloud](https://www.udemy.com/course/building-microservices-with-spring-boot-and-spring-cloud))
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=buzzcosm&repo=course-building-microservices-with-spring-boot-and-spring-cloud&theme=radical)](https://github.com/buzzcosm/course-building-microservices-with-spring-boot-and-spring-cloud)
